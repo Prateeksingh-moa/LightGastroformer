@@ -14,9 +14,9 @@ class Config:
 
     # Model 
     patch_size      = 8
-    embed_dim       = 512
-    depth           = 8
-    num_heads       = 8
+    embed_dim       = 256
+    depth           = 6
+    num_heads       = 4
     mlp_ratio       = 2.0
     drop_rate       = 0.1
     attn_drop_rate  = 0.1
