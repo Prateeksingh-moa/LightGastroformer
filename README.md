@@ -23,7 +23,7 @@ The architecture achieves strong performance on:
 without requiring explicit class balancing strategies.
 
 <p align="center">
-  <img src="assets/lightgastroformer_architecture.png" width="900">
+  <img src="assets/lightgastroformerfinal.drawio.png" width="900">
 </p>
 
 <p align="center">
@@ -205,10 +205,6 @@ Default architecture:
 - Robust performance under severe class imbalance
 - Computationally efficient deployment
 - Suitable for real-time GI image analysis
-
----
-
-
 
 ---
 
