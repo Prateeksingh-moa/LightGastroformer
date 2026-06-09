@@ -1,5 +1,7 @@
 # LightGastroFormer
 
+📄 Accepted for publication in Scientific Reports (Nature Portfolio), 2026
+
 LightGastroFormer is a lightweight transformer-based architecture designed for gastrointestinal (GI) disease classification from endoscopic and capsule endoscopy images. The model combines a multi-resolution patchwise tokenizer, efficient self-attention, and a medical-gated feedforward network to capture both global contextual information and subtle lesion-level features while maintaining computational efficiency.
 
 ## Overview
